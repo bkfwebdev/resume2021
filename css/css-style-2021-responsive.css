@@ -1,0 +1,108 @@
+body {
+    display:flexbox;
+}
+
+
+nav {
+    display: flexbox;
+    background-color: black;
+    color: azure;
+    width : 100%;
+    margin-bottom:0;
+    justify-content:space-around;
+    align-content: center;
+   
+  } 
+  
+  .fixed-nav nav {
+    position: fixed;
+    top:0;
+    z-index: 1;
+  }
+
+  nav li {
+      list-style: none;
+        display:inline;
+        padding-left:10%
+  }
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    padding: auto;
+}
+
+#myheader {
+margin-top: 0;
+padding-top: 0;
+font-family: 'Georama', sans-serif;
+width: 100%;
+height: 30%;
+background-image: url("../img/tools.jpg");
+border-style: solid;
+border-width: 1px;
+border-color: black;
+object-fit: cover;
+}
+
+#myheader h1 {
+    text-shadow: 2px 2px black;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+    width: 35%
+
+}
+
+
+#bkfpic {
+    margin-top: 5%;
+    width: 260px;
+    height: 250px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    background-image: url("../img/cool-b-smallest.jpg");
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h2 {
+    color: white
+}
+
+body {
+    background-color: rgb(58, 54, 54)
+}
+
+.content-section {
+    width: 60%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+}
+
+.content-section ul {
+    padding-left: 0;
+}
+
+.job-description ul {
+    padding-left: 0;
+}
+
+.job-description {
+    border-left: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-radius: 5%;
+    padding : 2%
+}
+
+.EPD {
+    font-weight: bold;
+}
+
