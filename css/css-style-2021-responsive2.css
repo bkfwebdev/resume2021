@@ -1,6 +1,5 @@
 body {
     min-height: 2000px;
-    padding-top: 70px;
 }
 
 .navbar {
@@ -23,7 +22,6 @@ img {
 }
 
 #myheader {
-margin-top: -20px;
 padding-top: 5%;
 font-family: 'Georama', sans-serif;
 width: 100%;
@@ -97,4 +95,9 @@ body {
 .EPD {
     font-weight: bold;
 }
+
+#Code-In-Action ul li{
+    list-style-type: none;
+}
+
 
