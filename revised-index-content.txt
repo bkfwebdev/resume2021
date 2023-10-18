@@ -1,0 +1,79 @@
+Here are the corrections and improvements:
+
+**About Me:**
+Focused, detail-oriented Software Engineer with 7+ years of proven success and comprehensive knowledge in both Frontend Development and Technical Support. Demonstrates programming skills, experience with application development, and troubleshooting abilities. Accomplishes measurable results utilizing strong interpersonal and organizational skills, providing solution-oriented outcomes in fast-paced, dynamic environments. Influences without authority, leads by example, and consistently exceeds expectations.
+
+**Work Experience:**
+
+**Chain.io – Software Developer**  
+*Philadelphia, PA - 07/2022 - 5/2023*  
+Front-end Developer / JavaScript AWS Engineer
+
+**Responsibilities/Accomplishments:**
+- Created lambdas to perform back-office housekeeping and generate reports for company metrics.
+- Conducted maintenance and completed updates to the Chain.io corporate website utilizing Sanity CMS and GatsbyJS.
+- Added new components and functionality to the Chain.io product site utilizing ReactJS.
+
+**FBS – Developer Support Engineer**  
+*Fargo, ND - 12/2021 - 5/2022*  
+Spark and RESO API Integration Specialist
+
+**Responsibilities/Accomplishments:**
+- Served as the primary point of contact for web developers and software engineers integrating the Spark and RESO web APIs into their projects.
+- Collaborated with customers or departments on technical issues, including software system design and maintenance.
+- Utilized the following technologies: Ruby, JSON, XML, Spark API, RESO web API, Kibana, Postman, and Jira.
+- Facilitated system testing and validation procedures.
+
+**Vertex Inc – Tier II Product Specialist**  
+*King Of Prussia, PA - 11/2020 - 4/2021*  
+Provide tier II level support for customers using Vertex tax calculation software (O Series). O Series performs background tax calculation for online transactions.
+
+**Responsibilities/Accomplishments:**
+- Provided technical support for configuration, deployment, and use of O Series software.
+- Troubleshooted and diagnosed issues with the O Series API by reviewing XML requests and response code.
+- Quickly provided solutions or facilitated escalations when a production instance of O Series was non-functional.
+
+**Ionic – Developer Support Engineer**  
+*(Remote) Madison, WI - 3/2019 – 9/2020*  
+Managed resolution of complex issues including application support, performance tuning, configuration issues, incident identification, escalations, system testing, disaster recovery, strategy sessions, and training.
+
+**Responsibilities/Accomplishments:**
+- Primary point of contact for escalations for technical questions from single sign-on (SSO) customers and open-source users.
+- Provided technical support and training for SSO customers and development teams utilizing Ionic Appflow for Hybrid/cloud-native builds, live app deploys, and continuous integration/continuous deployment (CI/CD) automation for Ionic, Capacitor, and Cordova app delivery.
+- Identified problems and took responsibility for successful resolution of issues, including tracking bugs and system outages; escalated to DevOps.
+
+**Compute2020 – Front End Developer (Contractor)**  
+*Cherry Hill, NJ - 07/2018 - 03/2019*  
+Developed highly interactive web applications utilizing JavaScript, HTML5, CSS, JSON, ReactJS, and integrating Restful APIs, and external web services ensuring high performance.
+
+**Responsibilities/Accomplishments:**
+- Designed and developed the front end of a new social media-based web platform utilizing ReactJS and Visual Studio Code (VSCode).
+- Conducted backend REST API integration using Node.js, Axios. Utilized Axios to parse JSON of REST API.
+- Performed code review, optimization, and management using Bitbucket, GIT, and Git Bash.
+- Collaborated with cross-functional team using Agile methodologies (JIRA) in the development process to manage user stories and subtasks in the sprint/release cycles.
+
+**Exotech Consulting – Front End Developer (Contractor)**  
+*Cherry Hill, NJ - 01/2018 - 06/2018*
+
+**Responsibilities/Accomplishments:**
+- Architected, designed, and implemented internet business portal.
+- Modified existing designs for software enhancement and created designs for new features.
+
+**Talley Management Group – Software Engineer (Contractor)**  
+*07/2018 - 12/2018*
+
+**Responsibilities/Accomplishments:**
+- Modified and repurposed legacy code written in Perl.
+- Added new features to generate reports and extract information utilizing the PubMed API.
+
+**Education:**  
+Rutgers University - Bachelor Of Arts - Philosophy
+
+**Technical Training:**  
+- Team Treehouse - Front-End Web Development
+- Team Treehouse - Full-Stack JavaScript Development
+- Springboard - Software Engineering
+
+**Tech Community Involvement:**  
+- Full-Stack JavaScript Meetup Group
+- I started the South Jersey Full Stack JavaScript meetup group to create a community for people like myself who have a passion for web development technology. The group exists to facilitate learning the latest technology trends in full stack JavaScript and also to create opportunities for networking and career advancement for its members. You can find more information about it here: Full-Stack JavaScript Meetup.
